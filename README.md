@@ -28,5 +28,5 @@ I build things that feel like magic from the outside.<br>Anime characters with m
 
 ---
 <div align="center">
-  <img src="[https://visitcount.itsvg.in/api?id=yashatgitt&icon=6&color=0" alt="Visitor Count](https://hits.sh/github.com/yashatgitt.svg?style=flat&label=visitors&color=0e75b6)" />
+  <img src="https://hits.sh/github.com/yashatgitt.svg?style=flat&label=visitors&color=0e75b6" />
 </div>
