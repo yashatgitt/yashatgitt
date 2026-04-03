@@ -13,12 +13,12 @@ I build things that feel like magic from the outside.<br>Anime characters with m
 
 # 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashatgitt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=yashatgitt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashatgitt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashatgitt&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=yashatgitt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashatgitt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📈 Activity Graph:
