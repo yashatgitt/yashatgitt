@@ -40,14 +40,14 @@ I build things that feel like magic from the outside.<br>Anime characters with m
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/yashatgitt">
-        <img src="https://img.shields.io/badge/WIP-●-yellow?style=flat-square" />&nbsp;
-        <img src="https://img.shields.io/badge/🤖_n8n_Agent-Automation-444?style=for-the-badge&logo=n8n&logoColor=white" />
+     <a href="https://swift.yashgg.me">
+        <img src="https://img.shields.io/badge/LIVE-●-brightgreen?style=flat-square" />&nbsp;
+        <img src="https://img.shields.io/badge/⚡_SWIFT-P2P_File_Transfer-6366f1?style=for-the-badge&logo=webrtc&logoColor=white" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/Gmail-Calendar-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-Ollama-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-      </a>
+        <img src="https://img.shields.io/badge/WebRTC-P2P-ff4d00?style=flat-square" />
+        <img src="https://img.shields.io/badge/No_Cloud-Zero_Storage-00c896?style=flat-square" />
+        <img src="https://img.shields.io/badge/Socket.IO-Relay_Fallback-010101?style=flat-square&logo=socket.io&logoColor=white" />
+    </a>
     </td>
   </tr>
 </table>
