@@ -16,10 +16,9 @@ I build things that feel like magic from the outside.<br>Anime characters with m
 ## 🚀 Projects
 
 <div align="center">
-
 <table border="0">
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://arcane-m7pi.onrender.com">
         <img src="https://img.shields.io/badge/LIVE-●-brightgreen?style=flat-square" />&nbsp;
         <img src="https://img.shields.io/badge/🎭_ARCANE-Anime_AI_Roleplay-C9513A?style=for-the-badge&logo=render&logoColor=white" />
@@ -29,7 +28,7 @@ I build things that feel like magic from the outside.<br>Anime characters with m
         <img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://yashgg.pythonanywhere.com">
         <img src="https://img.shields.io/badge/LIVE-●-brightgreen?style=flat-square" />&nbsp;
         <img src="https://img.shields.io/badge/📄_PDF360-PDF_Tools_Suite-2E86AB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
@@ -39,19 +38,18 @@ I build things that feel like magic from the outside.<br>Anime characters with m
         <img src="https://img.shields.io/badge/PythonAnywhere-Live-yellow?style=flat-square" />
       </a>
     </td>
-    <td align="center">
-     <a href="https://swift.yashgg.me">
+    <td align="center" width="33%">
+      <a href="https://swift.yashgg.me">
         <img src="https://img.shields.io/badge/LIVE-●-brightgreen?style=flat-square" />&nbsp;
         <img src="https://img.shields.io/badge/⚡_SWIFT-P2P_File_Transfer-6366f1?style=for-the-badge&logo=webrtc&logoColor=white" />
         <br/><br/>
         <img src="https://img.shields.io/badge/WebRTC-P2P-ff4d00?style=flat-square" />
         <img src="https://img.shields.io/badge/No_Cloud-Zero_Storage-00c896?style=flat-square" />
         <img src="https://img.shields.io/badge/Socket.IO-Relay_Fallback-010101?style=flat-square&logo=socket.io&logoColor=white" />
-    </a>
+      </a>
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
