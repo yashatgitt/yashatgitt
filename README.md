@@ -61,9 +61,7 @@ I build things that feel like magic from the outside.<br>Anime characters with m
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,css,flask,fastapi,django,tailwind,aws,azure,netlify,docker,mysql,sqlite,anaconda,numpy,pandas,sklearn" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,cloudflare,nginx,docker,mysql,sqlite,anaconda,numpy,pandas,sklearn" />
-</p>
+
 
 ## 📊 GitHub Stats
 
@@ -79,8 +77,14 @@ I build things that feel like magic from the outside.<br>Anime characters with m
 ![](https://streak-stats.demolab.com/?user=yashatgitt&theme=dark&hide_border=false)
 
 </div>
-
----
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=plastic&logo=anthropic&logoColor=white)
 
 ## 📈 Activity Graph
 
