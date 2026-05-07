@@ -61,7 +61,9 @@ I build things that feel like magic from the outside.<br>Anime characters with m
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,css,flask,fastapi,django,tailwind,aws,azure,netlify,docker,mysql,sqlite,anaconda,numpy,pandas,sklearn" />
 </p>
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=netlify,cloudflare,nginx,docker,mysql,sqlite,anaconda,numpy,pandas,sklearn" />
+</p>
 
 ## 📊 GitHub Stats
 
