@@ -19,7 +19,7 @@ I build things that feel like magic from the outside.<br>Anime characters with m
 <table border="0">
   <tr>
     <td align="center" width="33%">
-      <a href="https://arcane-m7pi.onrender.com">
+      <a href="https://arcane.yashgg.me">
         <img src="https://img.shields.io/badge/LIVE-●-brightgreen?style=flat-square" />&nbsp;
         <img src="https://img.shields.io/badge/🎭_ARCANE-Anime_AI_Roleplay-C9513A?style=for-the-badge&logo=render&logoColor=white" />
         <br/><br/>
